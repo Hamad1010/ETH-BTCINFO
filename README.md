@@ -25,6 +25,8 @@ Notes:
 2- I built the entire project.
 3- This is one my personal projects to boost my skills in data analysis and data science in general 
 
+Completion Date: 19 Septempeter 2022
+
 Let us start. 
 
 1) As always, install streamlit in our device :
